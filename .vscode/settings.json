@@ -1,4 +1,6 @@
 {
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 100,
   "[typescript]": {
     "editor.defaultFormatter": "denoland.vscode-deno"
   },
